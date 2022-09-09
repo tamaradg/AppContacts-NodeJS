@@ -1,0 +1,22 @@
+{
+  "1": {
+    "id": 1,
+    "nom": "Levasseur",
+    "prenom": "Guillaume",
+    "telephone":"+33666006567",
+    "email": "gui@gui.com",
+    "poste": "Ingénieur",
+    "entreprise": "Brady",
+    "adresse": "Passage Brady"
+  },
+  "2": {
+    "id": 2,
+    "nom": "Lombardie",
+    "prenom": "Joséphine",
+    "telephone":"+33612345674",
+    "email": "jo@jo.com",
+    "poste": "Coach",
+    "entreprise": "Jo Agency",
+    "adresse": "Rue des Vignoles"
+  }
+}
